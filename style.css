@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+    color: blue;
+    background-color: lightblue;
+    padding: 20px;
+    font-size: 50px;
+}
+#table{
+    text-align: center;
+}
+tr{
+    empty-cells: hide;
+}
+table{
+    border-color: lightskyblue;
+    color: darkblue;
+}
+* {
+    width: 1000;
+}
